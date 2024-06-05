@@ -1,2 +1,7 @@
-# How-to-Group-Nodes-and-Connectors-in-the-Vue-Diagram-Component
-A quick start Vue project that shows how to group nodes and connectors in the Vue Diagram component. This project includes code snippets to create and update groups dynamically. It also includes code snippets to add annotations to a group and create a nested group.
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
